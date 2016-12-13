@@ -1,4 +1,4 @@
-<%@ include file="includes/header.jsp" %>
+
 
 <div class="animated bounceInDown" style="font-size:48pt; font-family:arial; color:#990000; font-weight:bold">String Comparison Service</div>
 
@@ -41,5 +41,5 @@
 		</td>
 	</tr>
 </table>
-<%@ include file="includes/footer.jsp" %>
+
 
