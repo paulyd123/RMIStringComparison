@@ -24,3 +24,8 @@ between string one and string two is output.
 - To start the Apache Tomcat server, open up the command prompt and navigate to the bin directory and execute the command startup.bat.
 - Start the RMI server by using the command line while navigating to the directory it's in **java –cp ./string_service.jar ie.gmit.sw.StringServiceServant** which will then start your server.   
 - The go to **localhost:8080/comparator** in your web browser and you should be good to go
+
+## Algorithms
+**Levenshtein Distance**      
+**Damerau-Levenshtein Distance**     
+**Hamming Distance**      
